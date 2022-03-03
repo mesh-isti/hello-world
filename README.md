@@ -7,3 +7,5 @@ My first GitHub repository
   "age": 23
 }
 ```
+**I am getting some knowledge about makedown**
+*It is kind of like HTML, I know a little HTML*
